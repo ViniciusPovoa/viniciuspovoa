@@ -23,4 +23,4 @@
   
   </div> <br/>
   
-  Buscando cada dia mais aprofundar meus conhecimentos e em busca de se tornar uma referência como programador no Brasil.
+  Buscando cada dia mais aprofundar meus conhecimentos e estou em busca de se tornar uma referência como programador no Brasil.
