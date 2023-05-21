@@ -7,7 +7,7 @@
 ![Vinícius Póvoa GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuspovoa&show_icons=true&theme=radical)
 
 
-## Tecnologias que eu uso e já utilizei
+## Tecnologias que eu uso e já utilizei 🚀
 
 <div style = "display> inline_bloc"><br/>
   <img align = "center" alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,6 +19,8 @@
   
   
   
+
   
+  </div> <br/>
   
-  </div>
+  Buscando cada dia mais aprofundar meus conhecimentos e em busca de se tornar uma referência como programador no Brasil.
